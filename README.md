@@ -16,6 +16,10 @@ E rodar o composer install na pasta principal do projeto:
 
 `$ composer install`
 
+Depois migrate da tabela
+
+´$ php artisan migrate´
+
 O sistema esta configura para rodar na porta 80 da máquina.
 
 Rotas estão em http://localhost/api/cliente
